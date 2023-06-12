@@ -38,9 +38,6 @@
   <!-- /////////////////////////////////////////////////////////////////////////////////////////////// -->
   <div>
     <h4>👨‍💻 Programming languages</h4>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=" alt="assembly"/>
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" alt="c"/>
     </a>
