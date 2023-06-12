@@ -28,7 +28,7 @@
     <h5>Please note that private repos are not included, DM for accurate data.</h5>
     <img alt="Redwane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=redyummybread&hide=issues,contribs&count_private=true&show_icons=true&theme=vue&include_all_commits=true&hide_title=true&text_bold=true"/>
     <br>
-    <img alt="Redwane's Streaks" src="https://streak-stats.demolab.com?user=AnwarMEQOR&border_radius=5&theme=vue"/>
+    <img alt="Redwane's Streaks" src="https://streak-stats.demolab.com?user=redyummybread&border_radius=5&theme=vue"/>
   </div>
 </div>
 
