@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img align="right" src="https://komarev.com/ghpvc/?username=redyummybread&style=for-the-badge"/><br>
 
 <div align="center">
