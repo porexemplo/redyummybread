@@ -72,6 +72,9 @@
     <a href="https://www.djangoproject.com/" target="_blank">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
     </a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+    </a>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
     </a>
