@@ -38,15 +38,10 @@
   <!-- /////////////////////////////////////////////////////////////////////////////////////////////// -->
   <div>
     <h4>👨‍💻 Programming languages</h4>
-    <a href="https://www.cprogramming.com/" target="_blank">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" alt="c"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    </a>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </div>
   <!-- /////////////////////////////////////////////////////////////////////////////////////////////// -->
   <div>
