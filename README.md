@@ -58,6 +58,9 @@
     <a href="https://wordpress.com/" target="_blank">
       <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
     </a>
+    <a href="#">
+      https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+    </a>
   </div>
   <div>
     <h4>💻 Backend Development</h4>
