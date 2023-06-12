@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<img align="right" src="https://komarev.com/ghpvc/?username=redyummybread&style=for-the-badge"/><br>
 
 <!--
 **redyummybread/redyummybread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
