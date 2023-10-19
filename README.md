@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi👋, I'm Redwane</h1>
   <h2>I am an aspiring software engineer</h2>
-  <h3>🔭 I’m currently looking for a software engineering position</h3>
+  <!--<h3>🔭 I’m currently looking for a software engineering position</h3>-->
   <h4>💬 You can ask me about Java and C++</h4>
   <!-- Contact section -->
   <div>
